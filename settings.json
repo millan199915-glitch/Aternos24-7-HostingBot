@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bgcsmp.aternos.me",
-    "port": 45866,
+    "ip": "MatchaSMP-wSn4.aternos.me",
+    "port": 21487,
     "version": "",
     "try-creative": false
   },
